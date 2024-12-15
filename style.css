@@ -9,6 +9,7 @@
 
 html, body{
     margin: 0;
+
 }
 
 body {
@@ -482,6 +483,7 @@ article .icon{
     display: flex;
     justify-content: center;
     align-items: center;
+    size: 24rem;
 }
 
 article p {
